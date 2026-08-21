@@ -209,21 +209,6 @@ Heeriye
 
 ---
 
-## 📸 Project Screenshots
-
-### Home Page
-
-```text
-Add application screenshot here
-```
-
-### Recommendation Results
-
-```text
-Add recommendation result screenshot here
-```
-
----
 
 ## 👩‍💻 Author
 
